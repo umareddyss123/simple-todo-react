@@ -1,0 +1,21 @@
+body {
+  background-color: #eee;
+  color: #555;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.ui-state-default {
+  background: #fff;
+  border: none;
+  border-bottom: 1px solid #ddd;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: #aaa;
+}
